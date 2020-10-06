@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=1pgcbwzyhg2y4vkuhu4k2cpp4&cover_image=false" />
-</p>
