@@ -8,7 +8,7 @@ I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I de
      <br><br>Contact me on <a href="https://instagram.com/whudn_">Instagram</a> or <a href="mailto:w.ahyu@yandex.com">Send an Email</a>
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=surjithctly.surjithctly" alt="Visitors Counter">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=whudn" alt="Visitors Counter">
 </p>
 
 <!--
