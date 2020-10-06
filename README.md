@@ -1,7 +1,7 @@
 ### Hi Github 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px">
+  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160px">
   <br><br>
   <samp>
 I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself and my friend. 
