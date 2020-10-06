@@ -1,7 +1,7 @@
 ### Hi Github 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="27px">
   <br><br>
   <samp>
 I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself and my friend. 
@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
+</p>
