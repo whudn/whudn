@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p class="aligncenter">
-<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto" alt="centered image">
+<p align="center">
+<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto">
 </p>
