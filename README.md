@@ -1,7 +1,7 @@
 ### Hi Github 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="27px">
+  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px">
   <br><br>
   <samp>
 I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself and my friend. 
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=1pgcbwzyhg2y4vkuhu4k2cpp4&cover_image=false" />
 </p>
