@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="1000">
+<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto" class="center">
