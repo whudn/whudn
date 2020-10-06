@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p class="aligncenter">
-<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto" alt="center">
+<img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto" alt="centered image">
 </p>
