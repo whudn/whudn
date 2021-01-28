@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160px">
   <br><br>
   <samp>
-I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself and my friend. 
+I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself. 
      <br><br>Contact me on <a href="https://instagram.com/whudn_">Instagram</a> or <a href="mailto:w.ahyu@yandex.com">Send an Email</a>
   </samp>
 <br><br>
