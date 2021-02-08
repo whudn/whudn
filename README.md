@@ -56,10 +56,10 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a sponsor</a>
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a sponsor</a>
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
       </td>
     </tr>
   </body>
