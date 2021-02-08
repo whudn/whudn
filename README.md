@@ -27,4 +27,39 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <img src="https://u.cubeupload.com/victorferraresi/dino.gif" width="auto">
+  
+  <table>
+  <body>
+    <tr>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+        </a>
+      </td>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+        </a>
+      </td>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+      </td>
+    </tr>
+  </body>
+</table>
+
+And thank you to the individuals who [sponsor](https://github.com/sponsors/whudn) my work:
 </p>
