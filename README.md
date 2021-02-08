@@ -31,31 +31,36 @@ Here are some ideas to get you started:
   <table>
   <body>
     <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+      <td width="50%" align="center">
+        <a href="https://cto.ai/">
+          <img alt="CTO AI Slack first DevOps Workflows" src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" />
         </a>
-      </td>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
+        <a href="https://clay.global/">
+          <img alt="Clay is a UI/UX design and branding
+agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/clay-logo.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.storyblok.com/developers?utm_source=tj&utm_medium=github&utm_campaign=sponsorship">
+          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://apex-software.imgix.net/github/sponsors/storyblok-logo-dark.png" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://oss.capital/">
+          <img alt="OSS Capital: The first early-stage COSS-focused startup investor since 2018. Open source eats everything!" src="https://apex-software.imgix.net/github/sponsors/oss-capital-transparent-2.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="145" align="center">
+        <a href="https://github.com/sponsors/tj">Become a sponsor</a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sponsors/tj">Become a sponsor</a>
       </td>
     </tr>
   </body>
