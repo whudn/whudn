@@ -2,41 +2,6 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160px">
-  <p align="center">
-<table>
-  <body>
-    <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/sponsors/whudn">Become a supporter</a>
-      </td>
-    </tr>
-  </body>
-</table>
-
-And thank you to the individuals who [sponsor](https://github.com/sponsors/whudn) my work:
   <br><br>
   <samp>
 I'm Wahyudin. A Very Junior Web Designer & Developer from Bogor, Indonesia. I design and develop websites, landing pages and applications for myself. 
