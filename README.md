@@ -65,6 +65,6 @@ Here are some ideas to get you started:
   </body>
 </table>
 
-And thank you to the individuals who [sponsor](https://github.com/sponsors/whudn) my work:
+And thank you to the individuals who [support](https://github.com/sponsors/whudn) my work:
 none
 </p>
